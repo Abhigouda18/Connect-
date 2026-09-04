@@ -1,0 +1,11 @@
+{
+  "name": "Constituency Connect - ABHI Engagement & Issue Tracker",
+  "description": "Constituency engagement and issue-tracking platform connecting citizens, field workers, village coordinators, and ABHI leadership with real-time grievance tracking and live village townhalls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
